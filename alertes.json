@@ -1,0 +1,15 @@
+{
+  "derniereMaj": "2026-03-15T10:00:00Z",
+  "alertes": [
+    {
+      "id": "AL1",
+      "type": "perturbation",
+      "titre": "Travaux — Ligne T3",
+      "message": "En raison de travaux, la ligne T3 est déviée entre Sainte-Suzanne et Hérimoncourt.",
+      "lignes": ["T3"],
+      "couleur": "#C2262E",
+      "date": "30 mars 2026",
+      "actif": true
+    }
+  ]
+}
